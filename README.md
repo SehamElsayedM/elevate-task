@@ -22,5 +22,4 @@ This project is a simple e-commerce product listing page built using data from (
 To run this project locally: write this command in terminal of vscode IDE or any onther IDE
 
 1. **Clone the repository**:
-write this command in git bash
-   git clone <your-repository-url>
+git clone <https://github.com/SehamElsayedM/elevate-task.git>
